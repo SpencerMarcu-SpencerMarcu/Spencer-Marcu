@@ -2,8 +2,8 @@
 
 Spencer Marcu is an American singer-songwriter.
 
-## Repository contents
+## Spencer Marcu
 
 - `README.md` – project overview
-- `.github/` – repository automation and Copilot configuration
-- `SpencerMarcu.md` – short project summary
+- `Spencer-Marcu.github/` – repository automation and Copilot configuration
+- `American singer-songwriter` – short project summary
